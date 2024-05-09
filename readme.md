@@ -22,5 +22,7 @@ Absolute Path : **C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin\d
 
 4. Run the application with the following command in shell
 ```sh
+sdk > gcloud init
+sdk > gcloud auth login 
 cmd > py google-cloud-sdk\bin\dev_appserver.py <path to the directory where application resides>
 ```
