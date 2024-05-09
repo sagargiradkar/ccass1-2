@@ -26,3 +26,14 @@ sdk > gcloud init
 sdk > gcloud auth login 
 cmd > py google-cloud-sdk\bin\dev_appserver.py <path to the directory where application resides>
 ```
+
+transfer file from one vm to second 
+
+create file 
+toch file.txt
+open file
+nano file.txt
+read content 
+cat file.txt
+transfer file 
+scp file.txt vagrant@192.0.0.14:
