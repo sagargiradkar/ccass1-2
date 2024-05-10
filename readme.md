@@ -37,3 +37,8 @@ read content
 cat file.txt
 transfer file 
 scp file.txt vagrant@192.0.0.14:
+
+
+
+download image of Ubuntu 
+https://app.vagrantup.com/bento/boxes/ubuntu-18.04
